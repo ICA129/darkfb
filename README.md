@@ -13,7 +13,8 @@ $ pip2 install mechanize
 
 $ pip2 install requests
 
-$ git clone https://github.com/ICA129/darkfb.py
+$ git clone https://github.com/ICA129/darkfb
+
 
 $ cd darkfb
 
